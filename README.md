@@ -25,3 +25,4 @@ https://github.com/confluentinc/kafka-connect-hdfs/wiki/FAQ
 # License
 
 This project is licensed under the [Confluent Community License](LICENSE).
+
